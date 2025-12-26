@@ -2,7 +2,7 @@
 
 <div align="center">
   <div>
-    ![LIDAR_SLAM_DEMO](https://github.com/user-attachments/assets/d0f63ddf-7cbb-4aaa-ba95-6e080ef322a6)
+  ![LIDAR_SLAM_DEMO](https://github.com/user-attachments/assets/d0f63ddf-7cbb-4aaa-ba95-6e080ef322a6)
   </div>
 I’m a coder, creator and connector specializing in full stack development, robotics, and neural networks to solve age-old problems while forming human networks to address community needs.
 
