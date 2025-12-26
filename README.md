@@ -1,4 +1,4 @@
-# Mayank Sengupta [![LinkedIn](https://www.svgrepo.com/show/144030/linkedin-square-logo.svg)](https://www.linkedin.com/in/mayank-sengupta-66702b361/) 
+# Mayank Sengupta <a href="https://www.linkedin.com/in/mayank-sengupta-66702b361/ "><img src="https://www.svgrepo.com/show/144030/linkedin-square-logo.svg" width=25/></a>
 
 <div align="center">
 I’m a coder, creator and connector specializing in full stack development and neural networks to solve age-old problems while forming human networks to address community needs.
