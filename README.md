@@ -1,7 +1,8 @@
 # Mayank Sengupta <a href="https://www.linkedin.com/in/mayank-sengupta-66702b361/ "><img src="https://www.svgrepo.com/show/144030/linkedin-square-logo.svg" width=25/></a>
 
-<div align="center">
 ![LIDAR_SLAM_DEMO](https://github.com/user-attachments/assets/d0f63ddf-7cbb-4aaa-ba95-6e080ef322a6)
+
+<div align="center">
 I’m a coder, creator and connector specializing in full stack development, robotics, and neural networks to solve age-old problems while forming human networks to address community needs.
 
 ### Tech Stack
