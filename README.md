@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![rerun gif](https://github.com/user-attachments/assets/d0f63ddf-7cbb-4aaa-ba95-6e080ef322a6)
+![Cropped LIDAR Demo](https://github.com/user-attachments/assets/7f0b8b4a-a867-4bba-a5ae-5a980733666e)
+
 
 <br/>
 I’m a coder, creator and connector specializing in full stack development, robotics, and neural networks to solve age-old problems while forming human networks to address community needs.
